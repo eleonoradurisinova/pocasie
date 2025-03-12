@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #dcdcdc;
+    background-image: url('src/assets/9011110.jpg'); /* Replace with the path to your image */
+    background-size: cover; /* Ensure the image covers the entire background */
+    background-position: center;
+    height: 100vh; /* Ensure the body takes the full height of the viewport */
+
+}
